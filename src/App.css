@@ -1,11 +1,11 @@
-body{
-    background: lightyellow;
+.App{
+    background: #fff;
     font-family: 'Montserrat', sans-serif;
     font-size: 20px;
 }
 
 .btn{
-    background: pink;
+    background: #28a52c;
     margin: 20px;
 }
 
@@ -20,7 +20,7 @@ body{
     font-size: 70px;
 }
 .container{
-    border: 5px solid pink;
+    border: 5px solid #008f43;
     border-radius: 25px;
 
 }
